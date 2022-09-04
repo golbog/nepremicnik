@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "token": "<token_id>",
+    "groups": [1, 2]
+  },
+  "urls": [
+    "https:\/\/www.nepremicnine.net\/oglasi-prodaja\/ljubljana-mesto\/stanovanje\/cena-do-400000-eur,velikost-od-150-do-200-m2\/1\/"
+  ]
+}

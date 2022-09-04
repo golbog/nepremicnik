@@ -1,0 +1,5 @@
+lxml~=4.9.1
+requests~=2.28.1
+peewee~=3.15.2
+python-telegram-bot~=20.0a2
+argparse~=1.4.0
